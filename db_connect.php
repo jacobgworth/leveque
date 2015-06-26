@@ -9,7 +9,7 @@ $host="localhost";
 $username="envee";
 $password=",h_AMI.-~c)2";
 $database="moh";
-$host="localhost";
+$host="107.180.31.45";
 
 
 mysql_connect($host,$username,$password);
