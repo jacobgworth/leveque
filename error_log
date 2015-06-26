@@ -1,0 +1,137 @@
+[22-Jun-2015 18:22:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/radicalbuilders/public_html/leveque/editcampaign.php:1) in /home/radicalbuilders/public_html/leveque/editcampaign.php on line 30
+[23-Jun-2015 18:00:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[23-Jun-2015 18:00:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[23-Jun-2015 18:00:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[23-Jun-2015 18:00:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 06:09:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 06:13:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 06:13:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 06:16:05 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 06:16:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 06:19:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 06:19:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 06:24:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 06:24:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 06:35:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 06:35:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 13:12:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/radicalbuilders/public_html/leveque/insert.php:133) in /home/radicalbuilders/public_html/leveque/insert.php on line 204
+[24-Jun-2015 13:13:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/radicalbuilders/public_html/leveque/insert.php:133) in /home/radicalbuilders/public_html/leveque/insert.php on line 204
+[24-Jun-2015 13:56:16 UTC] PHP Fatal error:  Call to undefined function short_code() in /home/radicalbuilders/public_html/leveque/test-mail.php on line 3
+[24-Jun-2015 15:34:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 17:35:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 17:36:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 17:38:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 17:38:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 17:38:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 17:47:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/radicalbuilders/public_html/leveque/header.php:69) in /home/radicalbuilders/public_html/leveque/login.php on line 27
+[24-Jun-2015 17:48:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/radicalbuilders/public_html/leveque/header.php:69) in /home/radicalbuilders/public_html/leveque/login.php on line 27
+[24-Jun-2015 17:49:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/radicalbuilders/public_html/leveque/header.php:69) in /home/radicalbuilders/public_html/leveque/login.php on line 27
+[24-Jun-2015 17:50:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/radicalbuilders/public_html/leveque/header.php:69) in /home/radicalbuilders/public_html/leveque/login.php on line 27
+[24-Jun-2015 17:50:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 17:51:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/radicalbuilders/public_html/leveque/header.php:69) in /home/radicalbuilders/public_html/leveque/login.php on line 27
+[24-Jun-2015 17:52:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/radicalbuilders/public_html/leveque/header.php:69) in /home/radicalbuilders/public_html/leveque/login.php on line 27
+[24-Jun-2015 17:53:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/radicalbuilders/public_html/leveque/header.php:69) in /home/radicalbuilders/public_html/leveque/login.php on line 27
+[24-Jun-2015 17:54:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/radicalbuilders/public_html/leveque/header.php:69) in /home/radicalbuilders/public_html/leveque/login.php on line 27
+[24-Jun-2015 18:27:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 18:27:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 18:27:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 18:29:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[24-Jun-2015 19:16:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/radicalbuilders/public_html/leveque/header.php:69) in /home/radicalbuilders/public_html/leveque/login.php on line 25
+[24-Jun-2015 19:36:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 52
+[24-Jun-2015 19:36:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 52
+[24-Jun-2015 19:36:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 52
+[24-Jun-2015 19:36:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 52
+[24-Jun-2015 19:36:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 52
+[24-Jun-2015 19:37:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:37:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:37:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:37:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:37:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:38:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:38:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:38:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:38:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:38:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:38:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:38:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:38:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:38:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 19:38:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/admin-donors.php on line 53
+[24-Jun-2015 21:45:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 05:52:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 05:58:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 06:04:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 06:04:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 06:12:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 07:40:05 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 07:40:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 07:40:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 07:53:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 07:53:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 07:53:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 07:53:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/radicalbuilders/public_html/leveque/campaign.php on line 17
+[25-Jun-2015 15:11:59 UTC] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/radicalbuilders/public_html/leveque/test-stripe.php on line 9
+[25-Jun-2015 15:20:05 UTC] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/radicalbuilders/public_html/leveque/test-stripe.php on line 9
+[25-Jun-2015 15:24:02 UTC] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/radicalbuilders/public_html/leveque/test-stripe.php on line 9
+[25-Jun-2015 15:25:37 UTC] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/radicalbuilders/public_html/leveque/test-stripe.php on line 26
+[25-Jun-2015 15:46:25 UTC] PHP Fatal error:  Uncaught exception 'Stripe\Error\Card' with message 'Your card's expiration month is invalid.' in /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php:101
+Stack trace:
+#0 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php(209): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 402, Array)
+#1 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php(60): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 402)
+#2 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/radicalbuilders/public_html/leveque/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/radicalbuilders/public_html/leveque/test-stripe.php(7): Stripe\Charge::create(Array)
+#6 {main}
+  thrown in /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php on line 101
+[25-Jun-2015 15:54:51 UTC] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'You cannot use a Stripe token more than once: tok_16HcftHgpAkDMAyCG6sKnQsy.' in /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php:97
+Stack trace:
+#0 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php(209): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php(60): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/radicalbuilders/public_html/leveque/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/radicalbuilders/public_html/leveque/test-stripe.php(13): Stripe\Charge::create(Arr in /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php on line 97
+[25-Jun-2015 16:02:17 UTC] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'Missing required param: amount.' in /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php:97
+Stack trace:
+#0 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php(209): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php(60): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/radicalbuilders/public_html/leveque/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/radicalbuilders/public_html/leveque/test-stripe.php(13): Stripe\Charge::create(Array)
+#6 {main}
+  thrown in /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php on line 97
+[25-Jun-2015 16:19:39 UTC] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'Amount must be at least 50 cents' in /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php:97
+Stack trace:
+#0 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php(209): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php(60): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/radicalbuilders/public_html/leveque/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/radicalbuilders/public_html/leveque/thankyou.php(18): Stripe\Charge::create(Array)
+#6 {main}
+  thrown in /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php on line 97
+[25-Jun-2015 16:20:13 UTC] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'Amount must be at least 50 cents' in /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php:97
+Stack trace:
+#0 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php(209): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php(60): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/radicalbuilders/public_html/leveque/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/radicalbuilders/public_html/leveque/thankyou.php(18): Stripe\Charge::create(Array)
+#6 {main}
+  thrown in /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php on line 97
+[25-Jun-2015 17:52:22 UTC] PHP Fatal error:  Uncaught exception 'Stripe\Error\Card' with message 'Your card was declined.' in /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php:101
+Stack trace:
+#0 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php(209): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 402, Array)
+#1 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php(60): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 402)
+#2 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/radicalbuilders/public_html/leveque/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/radicalbuilders/public_html/leveque/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/radicalbuilders/public_html/leveque/thankyou.php(18): Stripe\Charge::create(Array)
+#6 {main}
+  thrown in /home/radicalbuilders/public_html/leveque/stripe/lib/ApiRequestor.php on line 101
+[25-Jun-2015 18:38:18 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18392 bytes) in /home/radicalbuilders/public_html/leveque/script.php on line 31
+[25-Jun-2015 18:38:32 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18392 bytes) in /home/radicalbuilders/public_html/leveque/script.php on line 31
+[25-Jun-2015 18:41:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18392 bytes) in /home/radicalbuilders/public_html/leveque/script.php on line 31
